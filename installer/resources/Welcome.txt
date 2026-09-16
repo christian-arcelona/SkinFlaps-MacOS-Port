@@ -1,0 +1,7 @@
+SkinFlaps — soft-tissue surgical simulator
+
+DO NOT USE THIS SIMULATOR TO PLAN SURGERY FOR A REAL PATIENT!!!
+
+This software is currently under development and has not been calibrated with data from fresh cadavers or live patients at this time. To be accurate for specific patients, data should be collected from the patient with 3D scanning and biophysical measurements. At present this software is intended for educational purposes only. This program makes no guarantees regarding surgical validity. Surgical planning for any specific patient is strictly the responsibility of the surgeon.
+
+This installer places SkinFlaps.app in your Applications folder. The anatomical models ship inside the application and are read-only. The first time SkinFlaps runs it creates a personal SkinFlaps/History folder in your home directory, preloaded with the example surgical procedures; your own saved procedures go there too.

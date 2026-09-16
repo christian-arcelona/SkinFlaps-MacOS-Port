@@ -1,0 +1,4 @@
+build/
+installer/out/
+imgui.ini
+.DS_Store

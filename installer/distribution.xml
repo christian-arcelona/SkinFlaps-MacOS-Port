@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installer-gui-script minSpecVersion="2">
+    <title>SkinFlaps</title>
+    <welcome file="Welcome.txt" mime-type="text/plain"/>
+    <license file="License.rtf" mime-type="text/rtf"/>
+    <conclusion file="Conclusion.txt" mime-type="text/plain"/>
+    <options customize="never" require-scripts="false" hostArchitectures="arm64"/>
+    <domains enable_localSystem="true"/>
+    <volume-check>
+        <allowed-os-versions>
+            <os-version min="15.0"/>
+        </allowed-os-versions>
+    </volume-check>
+    <choices-outline>
+        <line choice="default">
+            <line choice="app"/>
+        </line>
+    </choices-outline>
+    <choice id="default"/>
+    <choice id="app" visible="false">
+        <pkg-ref id="io.github.christian-arcelona.skinflaps.app"/>
+    </choice>
+    <pkg-ref id="io.github.christian-arcelona.skinflaps.app" version="1.1.5" onConclusion="none">SkinFlapsApp.pkg</pkg-ref>
+</installer-gui-script>

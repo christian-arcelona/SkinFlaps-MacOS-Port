@@ -1,0 +1,7 @@
+SkinFlaps has been installed in your Applications folder.
+
+Getting started: open SkinFlaps, press the NEXT button, and choose one of the example procedures from your SkinFlaps/History folder. Example files: AbbeEstlanderLip.hst (lip reconstruction), cleft_CuttingRepair.hst (unilateral cleft lip repair), foreheadFlapToNose.hst (forehead flap), and others. Video tutorials are on Dr. Cutting's YouTube channel (https://www.youtube.com/@courtcutting2872); the Users Guide is at https://www.youtube.com/watch?v=wXR3m3JQvo8
+
+Your own procedures can be saved to, and organized in subdirectories of, the SkinFlaps/History folder in your home directory.
+
+Reminder: this simulator is for educational use only and must not be used to plan surgery for a real patient.

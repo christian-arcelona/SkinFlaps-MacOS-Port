@@ -1,0 +1,9 @@
+[submodule "external/simde"]
+	path = external/simde
+	url = https://github.com/simd-everywhere/simde
+[submodule "external/eigen"]
+	path = external/eigen
+	url = https://gitlab.com/libeigen/eigen.git
+[submodule "vendor/original_windows/SkinFlaps"]
+	path = vendor/original_windows/SkinFlaps
+	url = https://github.com/uwgraphics/SkinFlaps
