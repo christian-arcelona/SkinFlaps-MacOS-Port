@@ -5,12 +5,6 @@ the soft-tissue surgical simulator by Qisi Wang, Court Cutting MD and
 Eftychios Sifakis. Built against upstream v1.2.1
 (commit [`f88f5dc`](https://github.com/uwgraphics/SkinFlaps/commit/f88f5dc88d593db467a69005ee1f8d977a8df8a4)).
 
-The solver is unchanged — the same physics constants, tolerances, timestep
-and local–global iteration structure as the Windows build — and the example
-procedures replay to the same results. Only the platform backends differ.
-When an action cannot be completed, the port reports why and the session
-continues; see [PORTING.md](PORTING.md) for those cases and for the
-backend mapping.
 
 ## Download
 
